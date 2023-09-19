@@ -1,0 +1,17 @@
+Name: Eleni
+number of letters in name: 5
+Surname: Khodabakhshi
+number of letters in surname: 12
+
+ASCII of K: 75
+ASCII of A: 65
+
+difference between the first letter of your last name and the capital letter ‘A’: 75 - 65 = 10
+
+n = 5 + 12 + 10 = 18
+
+id = round(–0.00165(n^3) + 0.12384(n^2) – 2.33779(n) + 14.1165) 
+= round(–0.00165(18)^3 + 0.12384 n2 – 2.33779 n + 14.1165)
+= round(2.53764) = 3
+
+=> n = 18, id = 3
